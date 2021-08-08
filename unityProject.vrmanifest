@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.mirrorvr.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "G:\\F-Backup\\Unity Project\\2020.2\\MultiplayerVR\\MultiplayerVR Mirror\\Mirror VR\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Mirror VR [Testing]"
+        }
+      }
+    }
+  ]
+}
